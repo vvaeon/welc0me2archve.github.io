@@ -1,0 +1,46 @@
+html {
+  height: 100%;
+  width: 100%;
+  text-align: center;
+}
+body {  
+  background-image: url("img/photo2pixel_download.jpg") ;
+  background-size: cover; 
+  background-position: center;
+  height: 100vh;
+h1 {
+  color: #fcfcfd;
+  text-align: center;
+  font-family: 'Roboto';
+  font-size: 90px;
+}
+p {
+   color: #292d38;
+  text-align: center;
+  font-family: 'Blackletter Shadow';
+  font-size: 25px;
+  margin-left: 10%; 
+  margin-right: 10%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
