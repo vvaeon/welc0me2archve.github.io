@@ -4,7 +4,7 @@ html {
   text-align: center;
 }
 body {  
-  background-image: url("img/photo2pixel_download.jpg") ;
+  background-image: url("photo2pixel_download.jpg") ;
   background-size: cover; 
   background-position: center;
   height: 100vh;
